@@ -1,5 +1,5 @@
 # automated_seismic_record_section
-- Give the input parameters in `input_file.yml`
+- Define the input parameters in `input_file.yml`
 - Run the python script `plot_record_section.py`
 
 <img src="example_inputFile.jpg" width="400" alt="Record section 1">
