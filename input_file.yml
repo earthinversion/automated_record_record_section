@@ -1,0 +1,20 @@
+minlat: -89
+maxlat: 89
+minlon: -180
+maxlon: 180
+starttime: "2013-01-01T00:00:00"
+endtime: "2014-01-01T01:00:00"
+minmagnitude: 4
+maxmagnitude: 9
+catalogxmlloc: "./"
+client_name: IRIS
+channel: BHZ
+location: "00"
+rem_response: True #to remove response
+max_num_trace_to_plot: 9999 #maximum number of traces to plot on record section
+record_section_relative_beg_time: 60
+record_section_relative_end_time: 100
+filter_trace: True
+bandpass_filter:
+  freqmin: 0.1
+  freqmax: 10
