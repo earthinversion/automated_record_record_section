@@ -1,1 +1,2 @@
 *.mseed
+__pycache__
