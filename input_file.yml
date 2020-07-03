@@ -6,15 +6,17 @@ starttime: "2013-01-01T00:00:00"
 endtime: "2014-01-01T01:00:00"
 minmagnitude: 4
 maxmagnitude: 9
-catalogxmlloc: "./"
+resultsLoc: "results/"
 client_name: IRIS
 channel: BHZ
-location: "00"
+location: "00,01"
+offset_min: 1000 #Minimum offset in METERS to plot
 rem_response: True #to remove response
 max_num_trace_to_plot: 9999 #maximum number of traces to plot on record section
 record_section_relative_beg_time: 60
-record_section_relative_end_time: 100
+record_section_relative_end_time: 900
+maxDist: 10000000 #or 10,000 km: maximum distance (in METERS) to plot on the record section 
 filter_trace: True
 bandpass_filter:
   freqmin: 0.1
-  freqmax: 10
+  freqmax: 5
