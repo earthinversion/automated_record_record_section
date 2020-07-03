@@ -2,6 +2,8 @@
 - Define the input parameters in `input_file.yml`
 - Run the python script `plot_record_section.py`
 
+```python plot_record_section.py```
+
 <img src="example_inputFile.jpg" width="600" alt="Input file">
 
 
