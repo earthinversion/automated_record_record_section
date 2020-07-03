@@ -8,3 +8,7 @@
 
 
 <img src="record_section_2013-05-24_SEA-OF-OKHOTSK.png" width="600" alt="Record section 1">
+
+
+<img src="runshot1.jpg" width="600" alt="Runshot 1">
+<img src="runshot2.jpg" width="600" alt="Runshot 2">
