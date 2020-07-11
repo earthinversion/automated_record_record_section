@@ -1,4 +1,4 @@
-# automated_seismic_record_section
+# automated_seismic_record_record_section
 - Define the input parameters in `input_file.yml`
 - Run the python script `plot_record_section.py`
 
