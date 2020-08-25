@@ -12,3 +12,7 @@
 
 <img src="exampleOutput/runshot1.jpg" width="600" alt="Runshot 1">
 <img src="exampleOutput/runshot2.jpg" width="600" alt="Runshot 2">
+
+
+## For more
+For added description, visit [here](https://www.earthinversion.com/automatically-plotting-seismic-section-python/)
